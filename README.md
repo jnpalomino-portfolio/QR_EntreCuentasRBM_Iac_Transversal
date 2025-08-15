@@ -1,0 +1,2 @@
+# QR_EntreCuentasRBM_Iac_Transversal
+Backup/prueba de repositorio QR_EntreCuentasRBM_Iac_Transversal
